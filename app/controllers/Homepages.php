@@ -32,3 +32,4 @@ class HomePages extends Controller
     $this->view('homepages/index', $data);
   }
 }
+}
